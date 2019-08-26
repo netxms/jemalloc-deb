@@ -1,0 +1,5 @@
+jemalloc (5.2.1-23) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Alex Kirhenshtein <alk@netxms.org>  Mon, 26 Aug 2019 22:18:28 +0300

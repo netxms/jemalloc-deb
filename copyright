@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: jemalloc
+Source: https://github.com/jemalloc/jemalloc
+
+Files: *
+Copyright: 2002-present Jason Evans <jasone@canonware.com>. 2007-2012 Mozilla Foundation, 2009-present Facebook, Inc. 
+License: BSD

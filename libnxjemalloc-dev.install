@@ -1,0 +1,3 @@
+usr/include/jemalloc/jemalloc.h
+usr/lib/*/libjemalloc.a
+usr/lib/*/libjemalloc_pic.a
