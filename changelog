@@ -1,3 +1,9 @@
+jemalloc (5.3.0-1) UNRELEASED; urgency=low
+
+  * Upstream updated
+
+ -- Alex Kirhenshtein <alk@netxms.org>  Thu, 22 Jun 2023 12:31:55 +0300
+
 jemalloc (5.2.1-23) UNRELEASED; urgency=low
 
   * Initial release.
